@@ -1,0 +1,13 @@
+package com.learningOauth2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringsecurityOauth2SampleApplication {
+	
+	public static void main(String[] args) {
+		SpringApplication.run(SpringsecurityOauth2SampleApplication.class, args);
+	}
+
+}
